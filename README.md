@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack | Frontend Developer
 -----------------------------
 
-Student (BSc) Computer Science
+(BSc) Computer Science student 2:2 year
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [aabdukabirovv@gmail.com](mailto:aabdukabirovv@gmail.com)
