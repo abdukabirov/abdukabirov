@@ -1,5 +1,5 @@
 
-Junior Front-end | FullStack | Mobile Developer
+Jr Mobile Developer
 =======================================================================================================================
 
 Student (BSc) Computer Science
