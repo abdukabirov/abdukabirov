@@ -1,8 +1,6 @@
 
-Jr Developer
+Developer
 =======================================================================================================================
-
-Student (BSc) Computer Science
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [aabdukabirovv@gmail.com](mailto:aabdukabirovv@gmail.com)
