@@ -3,7 +3,7 @@ Developer
 =======================================================================================================================
 
 * 🌍  I'm based in UK
-* ✉️  You can contact me at [404notfound.dev@gmail.com](mailto:404notfound.dev@gmail.com)
+* ✉️  You can contact me at [uaako1@icloud.com](mailto:uaako1@icloud.com)
 * 🚀  I'm currently working on [Project](http://discoveria.online)
 
 <a href="https://www.github.com/abdukabirov" target="_blank" rel="noreferrer"><img
