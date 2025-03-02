@@ -4,7 +4,6 @@ Developer
 
 * 🌍  I'm based in UK
 * ✉️  You can contact me at [uaako1@icloud.com](mailto:uaako1@icloud.com)
-* 🚀  I'm currently working on [Project](http://discoveria.online)
 
 <a href="https://www.github.com/abdukabirov" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdukabirov?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
