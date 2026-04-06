@@ -37,7 +37,7 @@
 <div align="center">
   <h1>📫 Contact Me</h1>
 <p align="center" style="margin: 8px 0 0 0;">
-  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+  <a href="https://www.buymeacoffee.com/uaako" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
          alt="Buy Me A Coffee" 
          height="41" width="174" /></a>
