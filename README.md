@@ -1,27 +1,53 @@
-
-Developer
-=======================================================================================================================
-* ✉️  You can contact me at [uaako1@icloud.com](mailto:uaako1@icloud.com)
-
-<a href="https://www.github.com/abdukabirov" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/abdukabirov?logo=github&style=for-the-badge&color=3382ed&labelColor=22272e" /></a>
-
-### Skills
-
-
-<p align="left">
- <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://console.cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ako&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev&descSize=18&descAlignY=55&textBg=false"/>
 </p>
+<!------------------------------------>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdukabirov&style=for-the-badge"
+       style="transform: scale(1.3);" />
+  <br><br>
+</p>
+<!------------------------------------>
+ <div align="center">
+  <h1>📊 GitHub Stats</h1>
+<p align="center">
+  <a href="https://github.com/abdukabirov">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdukabirov&cache_seconds=7200&layout=compact&theme=prussian&border_radius=10" alt="abdukabirov's GitHub Stats" />
+  </a>
+  <img height="180" src="https://streak-stats.demolab.com/?user=abdukabirov&theme=prussian&hide_border=true&cache_seconds=86400" alt="abdukabirov's GitHub Streak" />
+</p>
+<p align="center">
+  <a href="https://github.com/abdukabirov">
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdukabirov&langs_count=8&layout=compact&theme=prussian&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+<!------------------------------------>
+ <div align="center">
+  <h1>🛠️ Languages & Tools</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,flutter,dart,docker,django,mongodb,postgres,firebase,redis,git,github,gitlab,html,css" />
+  </a>
+</p>
+<!------------------------------------>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+<!------------------------------------>
+<div align="center">
+  <h1>📫 Contact Me</h1>
+<p align="center" style="margin: 8px 0 0 0;">
+  <a href="https://www.buymeacoffee.com/chamidudili" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" 
+         alt="Buy Me A Coffee" 
+         height="41" width="174" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="mailto:uaako1@icloud.com" target="_blank">
+   <img src="https://skillicons.dev/icons?i=gmail" 
+    alt="Gmail" 
+    height="41" width="41"/> </a></p>
 
+ <div align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/abdukabirov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/abdukabirov" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/abdukabirov"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdukabirov&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/abdukabirov" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdukabirov&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
