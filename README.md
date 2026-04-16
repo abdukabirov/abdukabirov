@@ -26,7 +26,7 @@
   <h1>🛠️ Languages & Tools</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flutter,dart,docker,django,mongodb,postgres,firebase,redis,git,github,gitlab,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,flutter,dart,docker,django,postgres,firebase,redis,git,github,gitlab,html,css" />
   </a>
 </p>
 <!------------------------------------>
