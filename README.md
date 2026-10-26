@@ -47,21 +47,26 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/abdukabirov/XE-Rate"><b>XE-Rate: currency and crypto rate tracker</b></a></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate"><b>Track live cryptocurrency and currency exchange rates, and convert between currencies, in one Flutter app.</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <!-- TODO: replace REPO with the real repository name, then remove the comment markers.
     <tr>
-      <td><a href="https://github.com/abdukabirov/REPO"><b>Internet Visualizer: how the Internet works, step by step</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/REPO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/REPO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/REPO?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/REPO?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed"><b>Telegram bot that watches tier-1 Dota 2 tournaments and posts match previews and results to a channel as images.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    -->
+    <tr>
+      <td><a href="https://github.com/abdukabirov/inetlab"><b>An interactive guide from a home network to global routing and submarine cables.</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
@@ -74,16 +79,14 @@
 <h3>Currently</h3>
 <ul>
   <li>🌱 Learning: second-year Computer Science</li>
-  <li>📱 Building: a refreshed version of XE-Rate in Flutter</li>
-  <li>🌐 Languages: English, Русский</li>
 </ul>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/abdukabirov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/YOUR-TELEGRAM" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL"><img alt="Email" src="https://img.shields.io/badge/email-%23555555.svg?&style=for-the-badge&logoColor=white" /></a>
+  <a href="https://github.com/abdukabirov" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://t.me/uaako" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:uaako1@icloud.com"><img alt="Email" src="https://img.shields.io/badge/-Email-3693F3?style=flat-square&logo=icloud&logoColor=white" /></a>
 </p>
 
 ------------
