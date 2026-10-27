@@ -1,6 +1,6 @@
 <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32" /> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page!<br/>I'm Ako, a Computer Science student and developer based in the <img src="https://flagcdn.com/w40/gb.png" width="20" alt="UK flag"/> <b>UK</b>. I build mobile and web apps with Flutter, Python and TypeScript.</p>
+<p>Welcome to my page!<br/>I'm Ako, a Computer Science student and developer based in the <img src="https://flagcdn.com/w40/gb.png" width="20" alt="UK flag"/> <b>UK</b>. I build mobile and web applications using React, React Native, Python, and Flutter, while continuously expanding my skills in modern web development.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -38,34 +38,34 @@
 <table>
   <thead align="center">
     <tr>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
+      <td><b>🚀 **Project**</b></td>
+      <td><b>⭐ **Stars**</b></td>
+      <td><b>🍴 **Forks**</b></td>
+      <td><b>⚠️ **Issues**</b></td>
+      <td><b>🔀<br>**PRs**</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/abdukabirov/XE-Rate"><b>Track live cryptocurrency and currency exchange rates, and convert between currencies, in one Flutter app.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/abdukabirov/dota2-feed"><b>Telegram bot that watches tier-1 Dota 2 tournaments and posts match previews and results to a channel as images.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/abdukabirov/inetlab"><b>An interactive guide from a home network to global routing and submarine cables.</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/abdukabirov/inetlab/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/inetlab/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/inetlab/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/inetlab/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
     </tr>
   </tbody>
 </table>
