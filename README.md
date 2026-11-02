@@ -6,66 +6,61 @@
 <p>
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+ <!--<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />-->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <!--<img alt="React Native" src="https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>-->
+  <!--<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>-->
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <!--<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>-->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="iOS" src="https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Neon DB" src="https://img.shields.io/badge/-Neon_DB-000000?style=flat-square&logo=neon&logoColor=34D59A" />
   <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ_IDEA-FE315D?style=flat-square&logo=intellijidea&logoColor=white" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black" />
+  <img alt="VS Code" src="https://custom-icon-badges.demolab.com/badge/VS_Code-0078D7?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <h3>Open source projects</h3>
 <table>
-  <thead align="center">
+  <thead align="left">
     <tr>
-      <td><b>🚀 **Project**</b></td>
-      <td><b>⭐ **Stars**</b></td>
-      <td><b>🍴 **Forks**</b></td>
-      <td><b>⚠️ **Issues**</b></td>
-      <td><b>🔀<br>**PRs**</b></td>
+      <th>Project</th>
+      <th>Description</th>
+      <th align="center">Stars</th>
+      <th align="center">Forks</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/abdukabirov/XE-Rate"><b>Track live cryptocurrency and currency exchange rates, and convert between currencies, in one Flutter app.</b></a></td>
-      <td><a href="https://github.com/abdukabirov/XE-Rate/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/XE-Rate/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/XE-Rate/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/XE-Rate/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/XE-Rate"><b>xe-rate</b></a></td>
+      <td>Track live cryptocurrency and currency exchange rates, and convert between currencies, in one Flutter app.</td>
+      <td align="center"><a href="https://github.com/abdukabirov/XE-Rate/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41" /></a></td>
+      <td align="center"><a href="https://github.com/abdukabirov/XE-Rate/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/XE-Rate?style=flat-square&labelColor=343b41" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/abdukabirov/dota2-feed"><b>Telegram bot that watches tier-1 Dota 2 tournaments and posts match previews and results to a channel as images.</b></a></td>
-      <td><a href="https://github.com/abdukabirov/dota2-feed/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/dota2-feed/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/dota2-feed/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/dota2-feed/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/dota2-feed"><b>dota2-feed</b></a></td>
+      <td>Telegram bot that watches tier-1 Dota 2 tournaments and posts match previews and results to a channel as images.</td>
+      <td align="center"><a href="https://github.com/abdukabirov/dota2-feed/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41" /></a></td>
+      <td align="center"><a href="https://github.com/abdukabirov/dota2-feed/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/dota2-feed?style=flat-square&labelColor=343b41" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/abdukabirov/inetlab"><b>An interactive guide from a home network to global routing and submarine cables.</b></a></td>
-      <td><a href="https://github.com/abdukabirov/inetlab/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/inetlab/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/inetlab/issues"><img alt="Issues" src="https://img.shields.io/github/issues/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
-      <td><a href="https://github.com/abdukabirov/inetlab/pulls"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/abdukabirov/inetlab?style=flat-square&labelColor=343b41"/></a></td>
+      <td><a href="https://github.com/abdukabirov/inetlab"><b>inetlab</b></a></td>
+      <td>An interactive guide from a home network to global routing and submarine cables.</td>
+      <td align="center"><a href="https://github.com/abdukabirov/inetlab/stargazers"><img alt="Stars" src="https://img.shields.io/github/stars/abdukabirov/inetlab?style=flat-square&labelColor=343b41" /></a></td>
+      <td align="center"><a href="https://github.com/abdukabirov/inetlab/forks"><img alt="Forks" src="https://img.shields.io/github/forks/abdukabirov/inetlab?style=flat-square&labelColor=343b41" /></a></td>
     </tr>
   </tbody>
 </table>
